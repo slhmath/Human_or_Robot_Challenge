@@ -1,5 +1,4 @@
 # Human_or_Robot_Challenge
-"Human or Robot?" Kaggle Competition hosted by Facebook in 2014.
 
 We take on the kaggle classification competition Human or Robot, which was hosted by Facebook in 2014. 
 
