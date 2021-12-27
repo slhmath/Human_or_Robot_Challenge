@@ -7,5 +7,5 @@ We are given two tabular datasets, one containing labels, and another containing
 
 The goal is to produce an algorithm that can faithfully discern the difference in bidding activity between humans and bots.
 
-After some basic feature engineering, we find that some famous statistical learning algorithms do far better than basic neural networks implemented via Keras.
+After some basic feature engineering, we find that statistical learning algorithms do far better than basic neural networks implemented via Keras.
 
